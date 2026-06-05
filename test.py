@@ -13,7 +13,7 @@ def print_all_tables():
     for dan in range(2, 10):
         print_multiplication_table(dan)
 
-
+#123
 def interactive_mode():
     """대화형 모드로 구구단을 조회합니다."""
     while True:
